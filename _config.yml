@@ -3,8 +3,8 @@ name: Name
 description: Description
 email: email@site.com
 author: author
-lang: en
-locale: en_US
+lang: id
+locale: id
 
 # Jekyll
 paginate: 10
