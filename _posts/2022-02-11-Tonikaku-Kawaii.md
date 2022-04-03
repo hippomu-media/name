@@ -13,4 +13,4 @@ Setelah Tsukasa membantu menyembuhkan luka Nasa, Nasa mengutarakan perasaannya, 
 
 Unduh:
 
-01-12: [PerpusIndo](https://www.perpusindo.info/berkas/R333cphr)
+E01-E12: [PerpusIndo](https://www.perpusindo.info/berkas/R333cphr)
