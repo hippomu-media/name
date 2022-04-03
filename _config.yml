@@ -35,3 +35,16 @@ sitemap:
     - "/index.html"
   change_frequency_name: "daily"
   priority_name: "1.00"
+
+#theme
+navbar-col: "#152232"
+navbar-text-col: "#76a4bf"
+navbar-border-col: "#152232"
+page-col: "#0b1622"
+text-col: "#b4a996"
+link-col: "#39a6d8"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
