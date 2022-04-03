@@ -11,5 +11,6 @@ Cerita dimulai dari tokoh protagonis yang memiliki nama dari penulisan "Hoshizor
 
 Setelah Tsukasa membantu menyembuhkan luka Nasa, Nasa mengutarakan perasaannya, dan gadis itu menyetujuinya, tapi hanya jika Nasa mau menikahinya. Setahun kemudian Nasa lulus ujian masuk, tapi ia memutuskan untuk bekerja paruh waktu daripada melanjutkan sekolah. Setelah berumur 18 tahun, Tsukasa muncul lagi, dan kehidupan pernikahan yang menyenangkan, romantis, dan misterius dimulai.
 
-Unduh
+Unduh:
+
 01-12: [PerpusIndo](https://www.perpusindo.info/berkas/R333cphr)
