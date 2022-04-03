@@ -1,5 +1,5 @@
 # A-1 Fansub
-Dibuat oleh Jekyll dengan tema [Dasper](https://github.com/ozgrozer/dasper).
+Dibuat menggunakan Jekyll dengan tema [Dasper](https://github.com/ozgrozer/dasper).
 
 ## Cara Pakai
 1. Fork repo.
