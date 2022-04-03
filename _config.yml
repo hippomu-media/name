@@ -2,8 +2,8 @@
 name: A-1 Fansub
 description: Bebas Layaknya Awan~
 author: A-1
-lang: id
-locale: id
+lang: Indonesia
+locale: Indonesia
 
 # Jekyll
 paginate: 10
