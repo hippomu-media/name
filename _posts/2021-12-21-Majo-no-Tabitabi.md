@@ -5,7 +5,7 @@ date: 2021-12-21
 coverPhoto: https://img.anili.st/media/112609
 ---
 
-[](https://img.anili.st/media/112609)
+![](https://img.anili.st/media/112609)
 
 Halo, selamat datang di rilisan pertama fansub ini.
 Memang belum bisa dibilang bagus (ya namanya rilisan pertama)
