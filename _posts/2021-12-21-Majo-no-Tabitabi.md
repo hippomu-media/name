@@ -11,4 +11,4 @@ Terinspirasi dari buku favorit yang sering ia baca, Elaina berusaha melihat semu
 
 Unduh:
 
-01-12: [PerpusIndo](https://www.perpusindo.info/berkas/1VmYYHOH)
+E01-E12: [PerpusIndo](https://www.perpusindo.info/berkas/1VmYYHOH)
