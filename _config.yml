@@ -1,6 +1,6 @@
 # Website details
 name: A-1 Fansub
-description: Menggarap Bebas Layaknya Awan~
+description: Bebas Layaknya Awan~
 email: email@site.com
 author: author
 lang: id
@@ -13,7 +13,7 @@ markdown: kramdown
 plugins: [jekyll-paginate]
 timezone: Indonesia
 paginateLabel: page
-paginate_path: "page/:num"
+paginate_path: "page/"
 permalink: /:categories/:year/:month/:day/:title
 baseurl: https://a-1fansub.github.io/
 
