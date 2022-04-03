@@ -37,7 +37,7 @@ layout: default
 
       <!-- Article date -->
       <span class="article__date">
-        {% site.lang == "tr" %}
+        {% if site.lang == "id" %}
           {% assign m = post.date | date: "%-m" %}
           {{ post.date | date: "%-d" }} 
           {% case m %}
