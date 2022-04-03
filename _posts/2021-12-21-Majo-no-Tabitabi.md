@@ -7,12 +7,13 @@ coverPhoto: https://img.anili.st/media/112609
 
 ![](https://img.anili.st/media/112609)
 
-Halo, selamat datang di rilisan pertama fansub ini.
-Memang belum bisa dibilang bagus (ya namanya rilisan pertama)
-Tapi walaupun begitu masih layak kok ditonton (semoga)
+Sinopsis: Terinspirasi dari buku favorit yang sering dia baca, Elaina berusaha melihat semua isi dunia. Seperti sebuah daun yang tertiup angin, dia mengembara dari satu negeri ke negeri lain, karena ingin memuaskan rasa ingin tahunya dan mencari pengalaman yang baru. Dia dihadapkan dengan berbagai macam sifat manusia, entah aneh, atau emosional. Karena eksplorasi rasa ingin tahunya mendorongnya untuk terus mengembara, Kemana lagi Elaina akan pergi?
 
 ```
 Soloyolo: Rokhiq
 ```
 
-Unduh: [Perpus](https://www.perpusindo.info/berkas/1VmYYHOH)
+Unduh: 
+| Episode  | Link                                                  |
+|----------|-------------------------------------------------------|
+| 01-12    | [Perpus](https://www.perpusindo.info/berkas/1VmYYHOH) |
