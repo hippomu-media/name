@@ -13,7 +13,8 @@ Sinopsis: Terinspirasi dari buku favorit yang sering dia baca, Elaina berusaha m
 Soloyolo: Rokhiq
 ```
 
-Unduh: 
+Unduh:
+
 | Episode  | Link                                                  |
 |----------|-------------------------------------------------------|
 | 01-12    | [Perpus](https://www.perpusindo.info/berkas/1VmYYHOH) |
