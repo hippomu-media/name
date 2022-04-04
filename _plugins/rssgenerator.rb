@@ -4,8 +4,8 @@
 #        attributes in the _config.yml file
 #
 # Uses the following attributes in _config.yml:
-#   name           - A-1 Fansub
-#   url            - https://a-1fansub.github.io/
+#   name           - 
+#   url            - 
 #   description    - Bebas Layaknya Awan~
 #   author         - (optional) the author of the site (if not specified will be left blank)
 #   copyright      - (optional) the copyright of the feed (if not specified will be left blank)
