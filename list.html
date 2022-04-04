@@ -27,7 +27,7 @@ h2 {
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
-    <h2 id href="#{{- tag -}}" class="btn btn-primary tag-btn" "linked-section">
+    <h2 id  <a href="#{{- tag -}}" class="btn btn-primary tag-btn" "linked-section"><\a>
         <i class="fa-solid fa-period"></i>
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
