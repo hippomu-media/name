@@ -3,6 +3,7 @@ layout: article
 title: Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BD)
 date: 2022-03-20
 coverPhoto: https://img.anili.st/media/112608
+tags: [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BD)]
 ---
 
 ![](https://img.anili.st/media/112608)
