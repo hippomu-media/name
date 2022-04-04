@@ -10,11 +10,13 @@ title: 'List'
 h2 {
   font-size: 15px;
   line-height: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 </style>
 </head>
 <body>
-    
+  
 <script src="https://kit.fontawesome.com/14f9d43cc3.js" crossorigin="anonymous"></script>
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
@@ -26,12 +28,6 @@ h2 {
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
-  <!-- Main -->
-  <main>
-
-    <!-- Main container -->
-    <section>
-      
 {%- for tag in tags_list -%}
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa-solid fa-period"></i></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
@@ -50,15 +46,4 @@ h2 {
         {%- endfor -%}
     </div>
 {%- endfor -%}
-
-    </section><!-- section -->
-
-  </main><!-- main -->
-
-  <!-- Footer -->
-  <footer>
-
-    <!-- Footer container -->
-    <section>
-
 </div>
