@@ -3,6 +3,7 @@ layout: article
 title: Tonikaku Kawaii (BD)
 date: 2022-02-11
 coverPhoto: https://img.anili.st/media/116267
+tags: [Majo no Tabitabi]
 ---
 
 ![](https://img.anili.st/media/116267)
