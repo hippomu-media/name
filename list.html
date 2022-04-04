@@ -26,7 +26,7 @@ h2 {
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
 {%- for tag in tags_list -%}
-    <a href="#{{-  tag  -}}" class="btn btn-primary tag-btn"><i class="fa-solid fa-period"></i></i>&nbsp;&nbsp;{{-  tag  -}}&nbsp;({{site.tags[tag].size}})</a>
+    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa-solid fa-period"></i></i>&nbsp;&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
 
 <div id="full-tags-list">
