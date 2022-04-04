@@ -12,7 +12,7 @@ title: 'List'
   background-color: transparent;
   text-decoration: none;
 h2 {
-  font-size: 20px;
+  font-size: 25px;
 }
 </style>
 </head>
@@ -29,16 +29,20 @@ h2 {
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
+{%- for tag in tags_list -%}
+    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa-solid fa-period"></i></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+{%- endfor -%}
+
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
-    <h2><a id href="#{{- tag -}}" class="btn btn-primary tag-btn" "linked-section">
-        <i class="fa-solid fa-period aria-hidden="true""></i>
+    <h2 id="{{- tag -}}" class="linked-section">
+        <i class="fa-solid fa-period"></i>
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
     <div class="post-list">
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
-                <a href="{{ post.url }}"">{{- post.title | strip_html -}}
+                <a href="{{ post.url }}"">{{- post.title | strip_html -}}</a>
             </div>
         {%- endfor -%}
     </div>
