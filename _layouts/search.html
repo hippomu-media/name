@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: htmlCompressor
 ---
 
 <!DOCTYPE html>
@@ -70,6 +70,97 @@ layout: default
 </head>
 <body>
 
+  <!-- Header -->
+  <header>
+
+    <!-- Header container -->
+    <section>
+
+      <!-- Homepage -->
+      <a href="{{ site.baseurl }}"><i class="icon-home"></i></a>
+
+      <!-- Site name & description -->
+      <div>
+
+        <!-- Display: table -->
+        <div class="dt">
+
+          <!-- Display: table-cell -->
+          <div class="dtc">
+
+            <h3>{{ site.name }}</h3>
+            <h6>{{ site.description }}</h6>
+
+          </div><!-- .dtc -->
+
+        </div><!-- .dt -->
+
+      </div><!-- div -->
+
+      <!-- List -->
+      <a href="https://db.silveryasha.web.id/group/225"><i style="font-size:16px" class="fa" target="_blank">&#xf0c9;</i></a>
+
+    </section><!-- section -->
+
+  </header><!-- header -->
+
+  <!-- Main -->
+  <main>
+
+    <!-- Main container -->
+    <section>
+
+      <!-- Content -->
 <div class="search">
-	{{ content }}
-</div>
+      {{ content }}
+
+    </section><!-- section -->
+
+  </main><!-- main -->
+
+  <!-- Footer -->
+  <footer>
+
+    <!-- Footer container -->
+    <section>
+
+      <!-- Display: table -->
+      <div class="dt">
+
+        <!-- Display: table-cell -->
+        <div class="dtc h6">
+          
+          <!-- Copyright -->
+          <a href="{{ site.baseurl }}" class="h6">{{ site.name }}</a> &copy; {{ site.time | date: "%Y" }}.
+          <br>
+          {% if site.lang == "tr" %}
+            <a href="https://github.com/jekyll/jekyll" class="h6" target="_blank">Jekyll</a> ile <a href="https://github.com/ozgrozer/dasper" class="h6" target="_blank">Dasper</a> teması kullanılarak oluşturulmuştur.
+          {% else %}
+            Dibuat menggunakan <a href="https://github.com/jekyll/jekyll" class="h6" target="_blank">Jekyll</a> dengan tema <a href="https://github.com/ozgrozer/dasper" class="h6" target="_blank">Dasper</a>.
+          {% endif %}
+
+        </div><!-- .dtc -->
+
+      </div><!-- .dt -->
+
+    </section><!-- section -->
+
+  </footer><!-- footer -->
+
+  <!-- If googleAnalyticsId declared -->
+  {% if site.googleAnalyticsId != "" %}
+
+    <!-- Google analytics tracking code -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.googleAnalyticsId }}', 'auto');
+      ga('send', 'pageview');
+    </script><!-- script -->
+
+  {% endif %}
+
+</body>
+</html>
