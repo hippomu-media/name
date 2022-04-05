@@ -13,7 +13,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>Tidak Ketemu.</li>';
+      searchResults.innerHTML = '<li>Maaf, tidak ada ;(</li>';
     }
   }
 
