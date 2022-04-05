@@ -2,14 +2,11 @@
 layout: search
 ---
 <form action="/search.html" method="get">
-  <label for="search-box">Cari</label>
   <input type="text" id="search-box" name="query">
 </form>
 
 <ul id="search-results"></ul>
 
-<script>
-  window.store = {
 <script>
   window.store = {
     {% for post in site.posts %}
@@ -26,8 +23,3 @@ layout: search
 </script>
 <script src="/assets/js/prod/lunr.min.js"></script>
 <script src="/assets/js/prod/search.js"></script>
-<link rel="stylesheet" href="/assets/css/prod/style.min.css">
-<script src="/assets/js/prod/prism.min.js"></script>
-<script src="/assets/js/prod/fastclick.min.js"></script>
-<script src="/assets/js/prod/init.min.js"></script>
-
