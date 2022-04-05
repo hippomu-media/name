@@ -11,11 +11,9 @@ layout: search
 
 <script>
   window.store = {
-    <meta itemprop="image" content="{{ page.coverPhoto }}">
-    <meta property="og:image" content="{{ page.coverPhoto }}">
-    <meta name="twitter:image" content="{{ page.coverPhoto }}">
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
+        "coverPhoto":"{{ page.coverPhoto }}",
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
