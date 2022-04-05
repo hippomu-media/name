@@ -13,10 +13,6 @@ layout: default
 <!-- Loop for posts by paginator -->
 {% for post in paginator.posts %}
 
-<form action="/search.html" method="get">
-  <input type="text" id="search-box" name="query">
-</form>
-
   <!-- Article -->
   <article>
 
@@ -72,6 +68,10 @@ layout: default
   </article><!-- article -->
 
 {% endfor %}
+
+<form action="/search.html" method="get">
+  <input type="text" id="search-box" name="query">
+</form>
 
 <!-- Include pagination bar -->
 {% include pagination.html section="bottom" %}
