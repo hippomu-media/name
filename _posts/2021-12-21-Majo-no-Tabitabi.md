@@ -3,7 +3,6 @@ layout: article
 title: Majo no Tabitabi (BD)
 date: 2021-12-21
 coverPhoto: https://img.anili.st/media/112609
-categories: [Majo no Tabitabi]
 ---
 
 ![](https://img.anili.st/media/112609)
