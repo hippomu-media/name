@@ -670,6 +670,8 @@ footer {
   height: $footerHeight;
   background-color: $footerBackgroundColor;
   border-top: 1px solid $footerBorderColor;
+  position: absolute;
+  bottom: 0px;
 
   /* Footer container */
   >section {
