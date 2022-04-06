@@ -14,4 +14,5 @@ Setelah Tsukasa membantu menyembuhkan luka Nasa, Nasa mengutarakan perasaannya, 
 
 Unduh:
 
-E01-E13: [Google Drive](https://drive.google.com/drive/folders/1T-jV-Lsbbm4rnUgXZACGV5yOpLEXGhTW?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202020/%5BBD%5D/%5BA-1%5D%20Tonikaku%20Kawaii%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/) - [MEGA](https://mega.nz/folder/o7gm1a6C#EZSybdFae4slf_c7tca47g) - [Telegram](https://t.me/a1fansub/49)
+[A-1] Tonikaku Kawaii [BD][x265 900p][FLAC]
+[Google Drive](https://drive.google.com/drive/folders/1T-jV-Lsbbm4rnUgXZACGV5yOpLEXGhTW?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202020/%5BBD%5D/%5BA-1%5D%20Tonikaku%20Kawaii%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/) - [MEGA](https://mega.nz/folder/o7gm1a6C#EZSybdFae4slf_c7tca47g) - [Telegram](https://t.me/a1fansub/49)
