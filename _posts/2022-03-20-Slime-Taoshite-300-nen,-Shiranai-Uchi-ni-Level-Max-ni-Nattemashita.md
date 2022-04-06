@@ -13,4 +13,5 @@ Aku tak pernah berpetualang, tapi aku menjadi yang terkuat sedunia ... apa yang 
 
 Unduh:
 
-E01-E12: [Google Drive](https://drive.google.com/drive/folders/1-Fy3RW1C1F-OfM-7e6pshtdWkALHrtir?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Slime%20Taoshite%20300-nen,%20Shiranai%20Uchi%20ni%20Level%20Max%20ni%20Nattemashita%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/) - [MEGA](https://mega.nz/folder/dyRhRAbK#uYseB8TYisz0af5AZQI8gQ) - [Telegram](https://t.me/a1fansub/65)
+[A-1] Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita [BD][x265 900p][FLAC]
+[Google Drive](https://drive.google.com/drive/folders/1-Fy3RW1C1F-OfM-7e6pshtdWkALHrtir?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Slime%20Taoshite%20300-nen,%20Shiranai%20Uchi%20ni%20Level%20Max%20ni%20Nattemashita%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/) - [MEGA](https://mega.nz/folder/dyRhRAbK#uYseB8TYisz0af5AZQI8gQ) - [Telegram](https://t.me/a1fansub/65)
