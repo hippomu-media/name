@@ -14,4 +14,4 @@ Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara m
 
 Unduh :
 
-[A-1] Aharen-san wa Hakarenai - 01 [WEB][x264 900p][AAC][B2F48555].mkv = [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2001%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BB2F48555%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/53)
+# [A-1] Aharen-san wa Hakarenai - 01 [WEB][x264 900p][AAC][B2F48555].mkv [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2001%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BB2F48555%5D.mkv) | [Telegram](https://t.me/a1fansubweeklies/53)
