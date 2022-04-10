@@ -38,7 +38,7 @@ layout: default
 
   <!-- Article download link -->
   {% if set.addthisId != "<a href="site.link" class=target="_blank">{content}</a>"} 
-  {%else != [{content}]({site.link})}
+  {% replace != [{content}]({"site.link"})}
 </article><!-- article -->
 
 <!-- If addthisId declared -->
