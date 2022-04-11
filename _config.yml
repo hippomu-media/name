@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 timezone: Indonesia
 paginateLabel: page
 paginate_path: "page/"
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:title
 baseurl: https://a-1fansub.github.io
 
 # Includes
