@@ -12,4 +12,4 @@ Mansion yang berada di atas bukit yang dikenal dengan nama Shadows House, rumah 
 
 Unduh:
 
-[A-1] Shadows House - 01 [BD][x265 900p][TrueHD][348C1D4D].mkv = [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2001%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5B348C1D4D%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/56)
+[A-1] Shadows House - 01 [BD][x265 900p][TrueHD][348C1D4D].mkv = [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2001v2%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5B34194A7F%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/57)
