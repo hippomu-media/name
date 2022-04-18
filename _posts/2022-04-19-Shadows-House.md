@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Shadows House (BD) - 02
-date: 2022-04-10
+date: 2022-04-19
 coverPhoto: https://img.anili.st/media/125038
 tags: [Shadows House]
 ---
