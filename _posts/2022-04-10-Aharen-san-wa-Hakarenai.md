@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - 03
-date: 2022-04-19
+date: 2022-04-10
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/965126030509617212/unknown.png
 tags: [Aharen-san wa Hakarenai]
 ---
