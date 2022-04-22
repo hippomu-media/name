@@ -10,9 +10,7 @@ locale: id
 paginate: 10
 highlighter: rouge
 markdown: kramdown
-plugins: 
-  - [jekyll-paginate]
-  - [jekyll-seo-tag]
+plugins: [jekyll-paginate]
 timezone: Asia/Jakarta
 paginateLabel: page
 paginate_path: "page/"
