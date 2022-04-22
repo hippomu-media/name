@@ -1,7 +1,8 @@
 ---
-layout: article
+layout: default
 title: List
 permalink: /list/
+description: 
 ---
 
 <section class="max-height">{{ post.content | strip_html | slice: 0, 200 }}</section>
