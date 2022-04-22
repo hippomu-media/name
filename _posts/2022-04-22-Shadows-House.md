@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Shadows House (BD) - 04
-date: 2022-04-19
+title: Shadows House (BD) - 05
+date: 2022-04-22
 coverPhoto: https://img.anili.st/media/125038
 tags: [Shadows House]
 ---
@@ -13,7 +13,9 @@ Mansion yang berada di atas bukit yang dikenal dengan nama Shadows House, rumah 
 Unduh BD 900p
 
 ---
-04: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2004v2%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5BC0FB2780%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/64)
+05: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2005%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5B91A2CD96%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/70)
+<br>
+04: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2004v2%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5BC0FB2780%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/69)
 <br>
 03: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2003%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5B1F8EC0E7%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/63)
 <br>
