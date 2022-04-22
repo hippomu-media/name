@@ -12,7 +12,7 @@ Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Ra
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
-Unduh WEB 900p:
+Unduh WEB 900p
 
 ---
 03: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2003%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BC14AB7CE%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/61)
