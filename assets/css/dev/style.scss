@@ -828,6 +828,7 @@ footer {
 @media(min-width:$computer-min) {
 }
 
+/* Tags */
 .tags {
   list-style: none;
   margin: 0;
@@ -887,3 +888,5 @@ footer {
 .tag:hover::after {
    border-left-color: crimson;
 }
+
+/* Tags */
