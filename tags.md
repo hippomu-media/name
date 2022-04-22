@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Tags
-permalink: /tags/
+layout: default
+title: List
+permalink: /list/
 ---
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
