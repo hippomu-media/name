@@ -13,6 +13,7 @@ Terinspirasi dari buku favorit yang sering ia baca, Elaina berusaha melihat semu
 Unduh BD 900p
 
 ---
-Paketan: [Acefile](https://acefile.co/f/73180325) - [Index](https://proyek.a-1ddl.workers.dev/1:/%5BElaina%5D%20Majo%20no%20Tabitabi%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D.7z) - [MEGA](https://mega.nz/file/0n5AQaQS#5lBk4qKUUHNzPqWXqMbao8AGy4Samujsx8FaOqfg6ks)
+Paketan: [Acefile](https://acefile.co/f/73180317/elaina-majo-no-tabitabi-bdx265-900pflac-7z
+) - [Index](https://proyek.a-1ddl.workers.dev/1:/%5BElaina%5D%20Majo%20no%20Tabitabi%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D.7z) - [MEGA](https://mega.nz/file/0n5AQaQS#5lBk4qKUUHNzPqWXqMbao8AGy4Samujsx8FaOqfg6ks)
 <br>
 Eceran: [Google Drive](https://drive.google.com/drive/folders/1eIHVLZCstxrEWg1BUdd0dIYuwsVEusM6?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202020/%5BBD%5D/%5BElaina%5D%20Majo%20no%20Tabitabi%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/) - [MEGA](https://mega.nz/folder/NqpVEQ6L#2YiMJ83AK3seo6UKhe8y_w) - [Telegram](https://t.me/a1fansub/35)
