@@ -8,6 +8,9 @@ tags: [Tensai Ouji no Akaji Kokka Saisei Jutsu]
 
 ![](https://img.anili.st/media/129190)
 
+Sinopsis
+
+---
 Pada suatu hari di suatu negeri nan jauh tinggallah seorang pangeran, seorang pangeran yang jenius.
 Pangeran jenius berjuang bersama rakyatnya memimpin mereka mencapai banyak kemenangan.
 Namun, yang sebenarnya, dia hanya ingin meninggalkan semuanya dan hidup santai.
