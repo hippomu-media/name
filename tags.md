@@ -5,6 +5,7 @@ permalink: /list/
 description: 
 ---
 
+<link rel="stylesheet" type="text/css" href="assets/css/main.css">
 <section class="max-height">{{ post.content | strip_html | slice: 0, 200 }}</section>
 
 <!-- Get the tag name for every tag on the site and set them
