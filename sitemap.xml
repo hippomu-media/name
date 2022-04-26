@@ -31,9 +31,9 @@ sitemap:
   {% endfor %}
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" or page.name == "rss.xml" %}
+    {% unless page.sitemap.exclude == "yes" or page.name == "style.css" %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      <loc>{{ site.url }}{{ page.url | remove: "assets/css/style.css" }}</loc>
       {% if page.sitemap.lastmod %}
         <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif page.date %}
