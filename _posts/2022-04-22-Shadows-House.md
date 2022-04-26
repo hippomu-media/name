@@ -13,6 +13,8 @@ Sinopsis
 ---
 Mansion yang berada di atas bukit yang dikenal dengan nama Shadows House, rumah dari bayangan yang hidup layaknya bangsawan. Mereka mengeksperesikan emosinya dengan boneka hidup yang sekaligus menjadi pelayan. Salah satu pelayan, Emilico, bersama Nona Kate, belajar lebih tentang dirinya dan misteri dari rumah tersebut.
 
+Solo: Rokhiq
+
 Unduh BD 900p
 
 ---
