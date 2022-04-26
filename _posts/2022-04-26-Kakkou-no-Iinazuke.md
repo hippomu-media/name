@@ -26,5 +26,4 @@ Encode : Leqek
 Unduh WEB
 
 ---
-01 (1080p) : [PerpusIndo](https://www.perpusindo.info/berkas/WmksqmUE)
-01 (720p) : [PerpusIndo](https://www.perpusindo.info/berkas/9QYlFDEA)
+01 : [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/WmksqmUE) - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/9QYlFDEA)
