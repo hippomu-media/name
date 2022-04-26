@@ -9,9 +9,13 @@ tags: [Kakkou no Iinazuke]
 ![](https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png)
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek)
+<br>
 Alih bahasa : Leqek
+<br>
 Tata rias : Rokhiq
+<br>
 Timing : KiryuuNii
+<br>
 Encode : Leqek
 
 Sinopsis
