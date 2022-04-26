@@ -2,11 +2,11 @@
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - 04
 date: 2022-04-26
-coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/965126030509617212/unknown.png
+coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/968434290960515092/mpv-shot0070.jpg
 tags: [Aharen-san wa Hakarenai]
 ---
 
-![](https://cdn.discordapp.com/attachments/895646034225688636/965126030509617212/unknown.png)
+![](https://cdn.discordapp.com/attachments/895646034225688636/968434290960515092/mpv-shot0070.jpg)
 
 Sinopsis
 
