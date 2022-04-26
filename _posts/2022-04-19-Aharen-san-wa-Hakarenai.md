@@ -15,6 +15,17 @@ Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Ra
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
+
+Alih bahasa: Rokhiq
+<br>
+Tata rias: Rokhiq
+<br>
+OP: Rokhiq
+<br>
+ED: KiryuuNii
+<br>
+Penyelaras akhir: KiryuuNii
+
 Unduh WEB 900p
 
 ---
