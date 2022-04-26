@@ -11,8 +11,8 @@ paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: 
-  [jekyll-paginate]
-  [jekyll-sitemap]
+  -jekyll-paginate
+  -jekyll-sitemap
 timezone: Asia/Jakarta
 paginateLabel: page
 paginate_path: "page/"
