@@ -19,9 +19,7 @@ Alih bahasa: KiryuuNii
 <br>
 Tata rias: KiryuuNii
 <br>
-OP: KiryuuNii
-<br>
-ED: Rokhiq
+Timing: KiryuuNii, Rokhiq
 <br>
 Penyelaras akhir: Rokhiq
 
