@@ -8,6 +8,11 @@ tags: [Kakkou no Iinazuke]
 
 ![](https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png)
 
+Sinopsis
+
+---
+Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
+
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek)
 <br>
 Alih bahasa : Leqek
@@ -18,17 +23,8 @@ Timing : KiryuuNii
 <br>
 Encode : Leqek
 
-Sinopsis
+Unduh WEB
 
 ---
-Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
-
-Unduh WEB 1080p
-
----
-01: [PerpusIndo](https://www.perpusindo.info/berkas/WmksqmUE)
-
-Unduh WEB 720p
-
----
-01: [PerpusIndo](https://www.perpusindo.info/berkas/9QYlFDEA)
+01 (1080p) : [PerpusIndo](https://www.perpusindo.info/berkas/WmksqmUE)
+01 (720p) : [PerpusIndo](https://www.perpusindo.info/berkas/9QYlFDEA)
