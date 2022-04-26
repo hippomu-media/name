@@ -15,6 +15,16 @@ Pada suatu hari di suatu negeri nan jauh tinggallah seorang pangeran, seorang pa
 Pangeran jenius berjuang bersama rakyatnya memimpin mereka mencapai banyak kemenangan.
 Namun, yang sebenarnya, dia hanya ingin meninggalkan semuanya dan hidup santai.
 
+Alih bahasa: KiryuuNii
+<br>
+Tata rias: KiryuuNii
+<br>
+OP: KiryuuNii
+<br>
+ED: Rokhiq
+<br>
+Penyelaras akhir: Rokhiq
+
 Unduh WEB 900p
 
 ---
