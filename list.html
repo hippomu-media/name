@@ -1,0 +1,16 @@
+---
+layout: default
+coverPhoto: "/assets/img/favicon.ico"
+---
+
+  <!-- Article -->
+  <article>
+
+    <!-- Article title -->
+    <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+
+      {% endif %}
+{% endfor %}
+
+<!-- Include pagination bar -->
+{% include pagination.html section="bottom" %}
