@@ -4,8 +4,6 @@ title: List
 permalink: /list/ 
 ---
 
-Silakan cari menggunakan fitur pencarian halaman pada peramban Anda masing-masing, ~~yang punya web amatir~~
-
 [Majo no Tabitabi](https://a-1fansub.github.io/Majo-no-Tabitabi)
 <br>
 [Tonikaku Kawaii](https://a-1fansub.github.io/Tonikaku-Kawaii)
