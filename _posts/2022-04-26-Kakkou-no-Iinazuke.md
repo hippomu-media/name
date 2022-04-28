@@ -15,13 +15,11 @@ Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek)
 <br>
-Alih bahasa : Leqek
+Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
 <br>
-Tata rias : Rokhiq
+Tata rias: Rokhiq
 <br>
-Timing : KiryuuNii
-<br>
-Encode : Leqek
+Timing: KiryuuNii
 
 Unduh WEB
 
