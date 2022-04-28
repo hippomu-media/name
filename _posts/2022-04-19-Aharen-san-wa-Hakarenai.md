@@ -16,13 +16,11 @@ Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jara
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
 
-Alih bahasa: Rokhiq
-<br>
-Tata rias: Rokhiq
+Alih Bahasa, Tata Rias: Rokhiq
 <br>
 Timing: Rokhiq, KiryuNii
 <br>
-Penyelaras akhir: KiryuuNii
+Pengolah Video, Penyelaras akhir: KiryuuNii
 
 Unduh WEB 900p
 
