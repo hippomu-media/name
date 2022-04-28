@@ -14,13 +14,11 @@ Sinopsis
 Sebagai perwujudan kekuasaan sepanjang masa, Raja Iblis Varvatos menganggap hidupnya sangat keruh. Dia bertindak dengan sendirinya dan memutuskan bereinkarnasi. Dia menyesuaikan kekuatan sihir dengan sempurna hingga rata-rata. Tapi, dunia yang baru sangatlah lemah, dan membuatnya menjadi yang terhebat lagi! Dilahirkan dengan nama Ard, dia memiliki gadis penjilat bersamanya, keluarga kerajaan memintanya menjadi raja selanjutnya, tapi pelayannya bersikeras membunuhnya?! Tapi, Ard tetap pada pendiriannya, dan tak akan berhenti hingga tujuan utamanya tercapai!
 
 
-Alih bahasa: KiryuuNii
-<br>
-Tata rias: KiryuuNii
+Alih Bahasa, Tata Rias: KiryuuNii
 <br>
 Timing: KiryuuNii, Rokhiq
 <br>
-Penyelaras akhir: Rokhiq
+Pengolah Video, Penyelaras Akhir: Rokhiq
 
 Unduh WEB 900p
 
