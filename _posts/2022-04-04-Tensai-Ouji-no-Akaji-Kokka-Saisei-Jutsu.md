@@ -19,7 +19,7 @@ Alih Bahasa, Tata Rias: KiryuuNii
 <br>
 Timing: KiryuuNii, Rokhiq
 <br>
-Pengolah Video, Penyelaras akhir: Rokhiq
+Pengolah Video, Penyelaras Akhir: Rokhiq
 
 Unduh WEB 900p
 
