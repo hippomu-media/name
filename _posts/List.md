@@ -1,7 +1,6 @@
 ---
 layout: article
 title: List
-date: 2022-04-28
 hide: true
 ---
 
