@@ -70,22 +70,7 @@ coverPhoto: "/assets/img/favicon.ico"
           {{ post.date | date_to_long_string | upcase }}
         {% endif %}
       </span>
-      
-        {%- for post in site.posts -%}
-    {% if post.hide == null or post.hide == false %}
-      <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-       <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-       </a>
-       </h3>          
-      </li>
-
-    {% endif %}
-   {%- endfor -%}
-
+   
       <!-- Article continue reading button -->
       <a class="article__button" href="{{ site.baseurl }}{{ post.url }}">{% if site.lang == "tr" %}DEVAMINI OKU{% else %}Selengkapnya{% endif %}</a>
 
