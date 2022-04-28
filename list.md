@@ -1,7 +1,6 @@
 ---
 layout: article
 title: List
-hide: true
 ---
 
 A
