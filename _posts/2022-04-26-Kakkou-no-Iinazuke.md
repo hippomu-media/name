@@ -25,3 +25,5 @@ Unduh WEB
 
 ---
 01 : [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/WmksqmUE) - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/9QYlFDEA)
+
+Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
