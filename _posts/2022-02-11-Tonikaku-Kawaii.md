@@ -23,3 +23,5 @@ Unduh BD 900p
 Paketan: [Acefile](https://acefile.co/f/73180322/a-1-tonikaku-kawaii-bdx265-900pflac-7z) - [Google Drive](https://drive.google.com/file/d/1cxevVigEof7xjWj0_Ll6US6Q3Yt8hEtq/view?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Tonikaku%20Kawaii%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D.7z) - [MEGA](https://mega.nz/file/8nQhjB6J#0Cb0R-zZK4snNRCKqsh6xM6fFYxC7F_bbBD3SxMv0cg)
 <br>
 Eceran: [Google Drive](https://drive.google.com/drive/folders/1T-jV-Lsbbm4rnUgXZACGV5yOpLEXGhTW?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202020/%5BBD%5D/%5BA-1%5D%20Tonikaku%20Kawaii%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/) - [MEGA](https://mega.nz/folder/o7gm1a6C#EZSybdFae4slf_c7tca47g) - [Telegram](https://t.me/a1fansub/49)
+
+Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
