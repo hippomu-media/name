@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (WEB) - 01
-date: 2022-04-26
+date: 2022-04-26 22:29:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/971431091703541790/Deai_Kakkou_no_Iinazuke_-_02_720p_WebRip_001_4810.png
 tags: [Kakkou no Iinazuke]
 ---
