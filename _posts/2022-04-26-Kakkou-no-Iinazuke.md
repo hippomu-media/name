@@ -2,11 +2,11 @@
 layout: article
 title: Kakkou no Iinazuke (WEB) - 01
 date: 2022-04-26
-coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png
+coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/971431091703541790/Deai_Kakkou_no_Iinazuke_-_02_720p_WebRip_001_4810.png
 tags: [Kakkou no Iinazuke]
 ---
 
-![](https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png)
+![](https://cdn.discordapp.com/attachments/902952031923347497/971431091703541790/Deai_Kakkou_no_Iinazuke_-_02_720p_WebRip_001_4810.png)
 
 Sinopsis
 
@@ -24,6 +24,8 @@ Timing: KiryuuNii
 Unduh WEB
 
 ---
-01 : [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/WmksqmUE) - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/9QYlFDEA)
+02: [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/dQBjo1jh) - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/AqTYgmQH)
+<br>
+01: [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/WmksqmUE) - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/9QYlFDEA)
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
