@@ -19,7 +19,7 @@ Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
 <br>
 Tata rias: Rokhiq
 <br>
-Timing: KiryuuNii
+Penyelaras Waktu: KiryuuNii
 
 Unduh WEB
 
