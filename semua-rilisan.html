@@ -6,6 +6,9 @@ coverPhoto: "/assets/img/favicon.ico"
 
  {% for post in site.posts %}
   <article>
+   
+   {% assign sorted_threat_posts = site.categories.threat | sort: 'title', 'last' %}
+{% for post in sorted_threat_posts %}
       <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
    
       <!-- If article has a cover photo -->
