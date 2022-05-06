@@ -10,6 +10,7 @@ coverPhoto: "/assets/img/favicon.ico"
    {% assign sorted_threat_posts = site.categories.threat | sort: 'title', 'last' %}
 {% for post in sorted_threat_posts %}
       <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+   {% endfor %}
    
       <!-- If article has a cover photo -->
       {% if post.coverPhoto %}
@@ -20,6 +21,5 @@ coverPhoto: "/assets/img/favicon.ico"
         </a><!-- .ar-container -->
   
       {% endif %}
-   {% endfor %}
   </article>
 {% endfor %}
