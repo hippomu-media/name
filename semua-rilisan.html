@@ -5,16 +5,15 @@ tittle: Semua Rilisan
 
  {% for post in site.posts %}
   <article>
-   {% assign sorted_threat_posts = site.categories.threat | sort: 'title', 'last' %}
-{% for post in sorted_threat_posts %}
+   
       <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
-   {% endfor %}
       <!-- If article has a cover photo -->
       {% if post.coverPhoto %}
         <!-- Article image with aspect ratio -->
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
         </a><!-- .ar-container -->
+   
       {% endif %}
   </article>
 {% endfor %}
