@@ -8,7 +8,7 @@
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
           appendString += '<li><a href="' + item.url + '"><h1>' + item.title + '</h1></a>';
-          appendString += '<p>' + <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></p>';
+          appendString += '<p>' +  post.coverPhoto + </p>';
           appendString += '<p>' + item.content.substring(0, 150) + ' ....</p></li>';
         }
 
