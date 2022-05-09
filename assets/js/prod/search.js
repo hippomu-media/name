@@ -2,8 +2,6 @@
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
     
-  <article>
-
       if (results.length) { // Are there any results?
         var appendString = '';
 
@@ -31,8 +29,6 @@
         }
       }
     }
-
-  </article>
   
   var searchTerm = getQueryVariable('query');
 
