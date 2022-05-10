@@ -7,7 +7,7 @@ tittle: Semua Rilisan
   <article>
    
       <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
-       {% assign sortedPosts = site.posts | sort: 'title' %}
+       {% assign sortedPosts = site.baseurl | sort: 'title' %}
       <!-- If article has a cover photo -->
       {% if post.coverPhoto %}
         <!-- Article image with aspect ratio -->
