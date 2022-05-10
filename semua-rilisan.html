@@ -14,6 +14,7 @@ tittle: Semua Rilisan
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
         </a><!-- .ar-container -->
       {% endif %}
+   {% endfor %}
  {% endcapture %}
  {% assign sortedposts = posts | split: '|' | sort %}
  {% for post in sortedposts %}
