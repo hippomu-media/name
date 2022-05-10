@@ -6,7 +6,7 @@ tittle: Semua Rilisan
   <article>
     {% capture posts %}
   {% for post in site.posts %}
-    <h1>|{{ post.title }}#{{ post.url }}</h1>
+    <h1>|{{ post.title }}>{{ post.url }}</h1>
   {% endfor %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
