@@ -7,13 +7,18 @@ tittle: Semua Rilisan
     {% capture posts %}
   {% for post in site.posts %}
     |<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
-  {% endfor %}
-{% if post.coverPhoto %}
+    
+    <!-- If article has a cover photo -->
+      {% if post.coverPhoto %}
+
         <!-- Article image with aspect ratio -->
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
         </a><!-- .ar-container -->
+
       {% endif %}
+
+  {% endfor %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
