@@ -421,7 +421,7 @@ main {
 
         /* .h1:hover */
         &:hover {
-          color: lighten($titleTextColor, 20%);
+          text-decoration:underline;
         }/* &:hover */
 
       }/* .h1 */
