@@ -8,7 +8,6 @@ tittle: Semua Rilisan
     {% capture posts %}
    {% for post in site.posts %}
      class=h1|{{ post.title }}#{{ post.url }}
-   {% endfor %}
    {% if post.coverPhoto %}
         <!-- Article image with aspect ratio -->
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
