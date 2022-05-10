@@ -2,11 +2,11 @@
 layout: article
 title: Majo no Tabitabi (BD)
 date: 2021-12-21
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/973579959673159681/1626003481_skrinshot-11-07-2021-16_37_23.png
+coverPhoto: https://img.anili.st/media/112609
 tags: [Majo no Tabitabi]
 ---
 
-![](https://cdn.discordapp.com/attachments/852096360287043644/973579959673159681/1626003481_skrinshot-11-07-2021-16_37_23.png)
+![](https://img.anili.st/media/112609)
 
 Sinopsis
 
