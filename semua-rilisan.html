@@ -3,15 +3,15 @@ layout: default
 tittle: Semua Rilisan
 ---
 
- {% for post in site.posts %}
   <article>
     {% capture posts %}
-   {% for post in site.posts %}
-     class=h1|{{ post.title }}#{{ post.url }}
-   {% endfor %}
- {% endcapture %}
- {% assign sortedposts = posts | split: '|' | sort %}
- {% for post in sortedposts %}
-     {% assign postitems = post | split: '#' %}
-     <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
- {% endfor %}
+  {% for post in site.posts %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+{% endfor %}
+ </article>
