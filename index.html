@@ -96,34 +96,6 @@ body {
   </article><!-- article -->
 
 {% endfor %}
-
-<script>
-    /**
-    * Resize iframe naoTimes ketika sudah load.
-    */
-    window.addEventListener("message", function (event) {
-        // Periksa apakah pesan dari embed naotimes apa tidak
-        if (!event.origin.startsWith("https://panel.naoti.me")) {
-            return;
-        }
-
-        // Parse data yang dikirim oleh Embed
-        const data = JSON.parse(event.data);
-        // Ambil element iframe via `id`
-        const iframe = document.getElementById("naotimes-project");
-        if (data.action === "resize") {
-            iframe.height = data.height;
-            iframe.scrolling = "no";
-            iframe.style.opacity = "1";
-            // Hilangkan scrollbar
-            iframe.style.overflowY = "hidden";
-        }
-    }, false);
-</script>
-
-<a class="h1">Kondisi Garapan</a>
-<iframe id="naotimes-project" src="https://panel.naoti.me/embed?id=970006592173002852&accent=none">
-
     
 <!-- Include pagination bar -->
 {% include pagination.html section="bottom" %}
