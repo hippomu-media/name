@@ -86,7 +86,7 @@ $paragraphTextColor: #3A4145;
 $generalTextColor: lighten($titleTextColor, 40%);
 $linkBorderColor: #b4e7f8;
 $headerBackgroundColor: #ffffff;
-$headerBorderColor: darken($headerBackgroundColor, 3%);
+$headerBorderColor: #ffffff;
 $footerBackgroundColor: $headerBackgroundColor;
 $footerBorderColor: darken($footerBackgroundColor, 3%);
 $aspectRatioBackgroundColor: $headerBorderColor;
