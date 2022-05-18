@@ -96,8 +96,6 @@ header {
 
   text-align: center;
   height: $headerHeight;
-  background-color: $headerBackgroundColor;
-  border-bottom: 1px solid $headerBorderColor;
 
   /* Header container */
   >section {
@@ -668,8 +666,6 @@ footer {
 
   text-align: center;
   height: $footerHeight;
-  background-color: $footerBackgroundColor;
-  border-top: 1px solid $footerBorderColor;
 
   /* Footer container */
   >section {
