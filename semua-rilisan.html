@@ -24,8 +24,7 @@ body {
    
     {% capture posts %}
   {% for post in site.posts %}
-        |
-        <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+        |<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
     
       {% if post.coverPhoto %}
 
@@ -36,6 +35,7 @@ body {
 
   {% endfor %}
 {% endcapture %}
+              
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
