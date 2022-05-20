@@ -6,7 +6,10 @@
         var appendString = '';
 
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
-          {{ content }}
+          var item = store[results[i].ref];
+          appendString += '<li><a href="' + item.url + '"><h1>' + item.title + '</h1></a>';
+          appendString += '<p>' + img src="post.coverPhoto" '</p></li>';
+          appendString += '<p>' + item.content.substring(0, 150) + ' ....</p></li>';
         }
 
         searchResults.innerHTML = appendString;
