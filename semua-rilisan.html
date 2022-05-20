@@ -24,7 +24,7 @@ body {
    
     {% capture posts %}
   {% for post in site.posts %}
-    | <a href="{{ site.baseurl/post.url }}" class="h1">{{ post.title }}</a>
+    | <a href="{{ site.baseurl | post.url }}" class="h1">{{ post.title }}</a>
     
     <!-- If article has a cover photo -->
       {% if post.coverPhoto %}
