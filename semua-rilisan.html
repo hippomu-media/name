@@ -13,13 +13,13 @@ tittle: Semua Rilisan
         |
     
     
-      {% if post.coverPhoto %}
+      {% if post.coverPhoto %}{% if post.title %}
 
     <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></a>
 
-{% endif %}{% endfor %}{% endcapture %}
+{% endif %}{% endfor %}{% endcapture %}{% post.title %}
               
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
