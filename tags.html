@@ -17,11 +17,13 @@ to the `site_tags` variable. -->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <li>
-      <a href="#{{ this_word | cgi_escape }}" class="tag h2">{{ this_word }}
+      <a href="#{{ this_word | cgi_escape }}" class="tag h3">{{ this_word }}
       </a>
     </li>
   {% endunless %}{% endfor %}
 </ul>
+  
+  
 ---
 
 
