@@ -23,11 +23,6 @@ body {
 </body>
 
   <article>
-   
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
               
     {% capture posts %}
   {% for post in site.posts %}
@@ -38,6 +33,13 @@ body {
 
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></a>
+              
+ 
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+{% endfor %}
 
 {% endif %}{% endfor %}{% endcapture %}
  </article>
