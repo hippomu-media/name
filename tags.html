@@ -37,14 +37,6 @@ to the `site_tags` variable. -->
         <span style="float: left;">
           <a href="{{ post.url }}" class="h1">{{ post.title }}</a>
         </span>
-      {% if post.coverPhoto %}
-
-        <!-- Article image with aspect ratio -->
-        <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
-          <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
-        </a><!-- .ar-container -->
-
-      {% endif %}
       </div>
       <div style="clear: both;"></div>
     {% endif %}{% endfor %}
