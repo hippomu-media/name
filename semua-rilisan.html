@@ -19,13 +19,13 @@ tittle: Semua Rilisan
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></a>
 
-{% endif %}{% endfor %}
+{% endif %}{% endfor %}{& endcapture &}
               
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
     <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
-{% endfor %}{& endcapture &}
+{% endfor %}
  </article>
 
 <style>
