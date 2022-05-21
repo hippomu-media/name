@@ -25,7 +25,7 @@ tittle: Semua Rilisan
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
     <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
-{% endfor %}
+{% endfor %}{& endcapturepost &}
  </article>
 
 <style>
