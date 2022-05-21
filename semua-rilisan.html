@@ -26,7 +26,7 @@ body {
               
     {% capture posts %}
   {% for post in site.posts %}
-        |<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
     
     
       {% if post.coverPhoto %}
@@ -35,10 +35,9 @@ body {
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></a>
               
  
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+{% assign sorted_threat_posts = site.categories.threat | sort: 'title', 'last' %}
+{% for post in sorted_threat_posts %}
+   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
 {% endif %}{% endfor %}{% endcapture %}
