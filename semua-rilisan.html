@@ -3,12 +3,6 @@ layout: default
 tittle: Semua Rilisan
 ---
 
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
-{% endfor %}
-
 <style>
 body {
             animation: fadeInAnimation ease 1s;
@@ -42,3 +36,9 @@ body {
 
 {% endif %}{% endfor %}{% endcapture %}
  </article>
+
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+{% endfor %}
