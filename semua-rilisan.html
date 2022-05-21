@@ -24,6 +24,13 @@ body {
 
   <article>
    
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+{% endfor %}              
+
+              
     {% capture posts %}
   {% for post in site.posts %}
         |<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
@@ -35,11 +42,4 @@ body {
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></a>
 
 {% endif %}{% endfor %}{% endcapture %}
-
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
-{% endfor %}              
-
  </article>
