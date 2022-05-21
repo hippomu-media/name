@@ -2,6 +2,7 @@
 layout: default
 tittle: Semua Rilisan
 ---
+
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
