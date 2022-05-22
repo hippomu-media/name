@@ -10,7 +10,7 @@ title: Semua Rilisan
    
     {% capture posts %}
   {% for post in site.posts %}
-        |<a href="{{ post.url }}" class="h1"{{ post.title }}</a>
+        |<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
       {% if post.coverPhoto %}
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
           <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span></a>
