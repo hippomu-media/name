@@ -3,6 +3,21 @@ layout: default
 title: Semua Rilisan
 ---
 
+<style>
+body {
+            animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+  
 </style>
 </body>
 
@@ -22,18 +37,3 @@ title: Semua Rilisan
     <a href="{{ postitems[1] }}">{{ postitems[0] }}</a><br>
 {% endfor %}
  </article>
-
-<style>
-body {
-            animation: fadeInAnimation ease 1s;
-            animation-iteration-count: 1;
-            animation-fill-mode: forwards;
-        }
-        @keyframes fadeInAnimation {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
