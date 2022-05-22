@@ -10,7 +10,7 @@ tittle: Semua Rilisan
    
     {% capture posts %}
   {% for post in site.posts %}
-        |<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+        \<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
     
     
       {% if post.coverPhoto %}
@@ -20,9 +20,9 @@ tittle: Semua Rilisan
 
 {% endif %}{% endfor %}{% endcapture %}
               
-{% assign sortedposts = posts | split: '|' | sort %}
+{% assign sortedposts = posts \ split: '\' \ sort %}
 {% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
+    {% assign postitems = post \ split: '#' %}
     <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
 {% endfor %}
  </article>
