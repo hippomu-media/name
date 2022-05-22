@@ -19,7 +19,7 @@ title: Semua Rilisan
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
-    <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+    <a href="{{ postitems[1] }}">{{ postitems[0] }}</a><br>
 {% endfor %}
  </article>
 
