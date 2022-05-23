@@ -8,7 +8,11 @@
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
           appendString += '<li><a href="' + item.url + '"><h4>' + item.title + '</h4></a>';
-          appendString += '<a href="' + item.url + '">' + img.src = item.coverPhoto + '</a>';
+          appendString += '<a href="' + item.url + '">' +   function show_image(src) {
+        var img = document.createElement("img");
+        img.src = src;
+        document.body.appendChild(img);
+    }  + '</a>';
           appendString += '<p><h6>' + item.content.substring(0, 150) + ' ....</h6></p></li>';
         }
 
@@ -18,6 +22,11 @@
       }
     }
 
+      function coverPhoto() {
+        var src = "item.coverPhoto";
+        show_image("item.coverPhoto");
+    }
+  
     function getQueryVariable(variable) {
       var query = window.location.search.substring(1);
       var vars = query.split('&');
