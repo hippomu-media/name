@@ -27,12 +27,23 @@ body {
                 opacity: 1;
             }
         }
-</style>
-</body>
 
-	<form action="/search.html" method="get">
-		<input type="text" id="search_box" name="query">
-	</form>
+    <style type="text/css">
+    form {
+      margin:50px auto;
+    }
+    .search {
+      padding:8px 14px;
+      width: 100%
+    }
+  </style>
+   </head>
+<body>
+<form>
+   <form action="/search.html" method="get">
+    <input class="search" type="text" placeholder="Cari Apa?" id="search-box" name="query" required>
+</form>
+</body>
 
 <!-- Don't show pagination bar in homepage -->
 {% if paginator.page > 1 %}
