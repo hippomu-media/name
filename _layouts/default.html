@@ -88,8 +88,20 @@ layout: htmlCompressor
           <!-- Display: table-cell -->
           <div class="dtc">
 
-           <h3>{{ site.name }}</h3>
-           <h6>{{ site.description }}</h6>
+    <style type="text/css">
+    form {
+      margin:50px auto;
+    }
+    .search {
+      padding:8px 14px;
+      width: 100%
+    }
+  </style>
+   </head>
+<body>
+   <form action="/search.html" method="get">
+    <input class="search" type="text" placeholder="Cari sesuatu ..." id="search-box" name="query">
+</form>
 
           </div><!-- .dtc -->
 
@@ -98,7 +110,7 @@ layout: htmlCompressor
       </div><!-- div -->
 
       <!-- List -->
-      <a href="{{ site.baseurl }}/semua-rilisan"><i style="font-size:16px" class="fa" target="_blank">&#xf0c9;</i></a>
+      <a href="{{ site.baseurl }}/arsip"><i style="font-size:16px" class="fa" target="_blank">&#xf0c9;</i></a>
 
     </section><!-- section -->
 
