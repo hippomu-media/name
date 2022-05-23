@@ -8,13 +8,13 @@
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
           appendString += '<li><a href="' + item.url + '"><h4>' + item.title + '</h4></a>';
-          appendString += '<a href="' + item.url + '">' + img.src + '</a>';
+          appendString += '<a href="' + item.url + '">' + show_image + '</a>';
           appendString += '<p><h6>' + item.content.substring(0, 150) + ' ....</h6></p></li>';
         }
 
         searchResults.innerHTML = appendString;
       } else {
-        searchResults.innerHTML = '<li>Di sini tidak garap yang Anda cari, ya .... ;(</li>';
+        searchResults.innerHTML = '<li>Tidak ada.</li>';
       }
     }
 
