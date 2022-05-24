@@ -22,6 +22,14 @@ body {
 
 <ul id="search-results"></ul>
 
+      <!-- If article has a cover photo -->
+      {% if post.coverPhoto %}
+
+        <!-- Article image with aspect ratio -->
+        <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
+          <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
+        </a><!-- .ar-container -->
+
 <script>
   window.store = {
     {% for post in site.posts %}
