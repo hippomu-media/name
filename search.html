@@ -27,8 +27,11 @@ body {
 
         <!-- Article image with aspect ratio -->
         <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
-          <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
+          <span class="ar-content" style="background-image: url({{ cover_Photo }});"></span>
         </a><!-- .ar-container -->
+
+      {% endif %}
+
 
 <script>
   window.store = {
