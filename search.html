@@ -22,17 +22,6 @@ body {
 
 <ul id="search-results"></ul>
 
-      <!-- If article has a cover photo -->
-      {% if post.coverPhoto %}
-
-        <!-- Article image with aspect ratio -->
-        <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
-          <span class="ar-content" style="background-image: url({{ cover_Photo }});"></span>
-        </a><!-- .ar-container -->
-
-      {% endif %}
-
-
 <script>
   window.store = {
     {% for post in site.posts %}
@@ -43,6 +32,16 @@ body {
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"
+      <!-- If article has a cover photo -->
+      {% if post.coverPhoto %}
+
+        <!-- Article image with aspect ratio -->
+        <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
+          <span class="ar-content" style="background-image: url({{ cover_Photo }});"></span>
+        </a><!-- .ar-container -->
+
+      {% endif %}
+
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
