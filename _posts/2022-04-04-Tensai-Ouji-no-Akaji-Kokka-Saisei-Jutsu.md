@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Tensai Ouji no Akaji Kokka Saisei Jutsu (WEB)
+title: Tensai Ouji no Akaji Kokka Saisei Jutsu (WEB) - Paketan
 date: 2022-04-03
 coverPhoto: https://img.anili.st/media/129190
 tags: [Tensai Ouji no Akaji Kokka Saisei Jutsu]
