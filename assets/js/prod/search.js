@@ -17,17 +17,6 @@
       }
     }
   
-      function cover_Photo() {
-        var src = "item.coverPhoto";
-        show_image("item.coverPhoto");
-    }
-  
-  function show_image(src) {
-        var img = document.createElement("img");
-        img.src = src;
-        document.body.appendChild(img);
-    }
-  
     function getQueryVariable(variable) {
       var query = window.location.search.substring(1);
       var vars = query.split('&');
