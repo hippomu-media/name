@@ -2,11 +2,11 @@
 layout: article
 title: Shadows House (BD) - 01-05
 date: 2022-04-22
-coverPhoto: https://img.anili.st/media/125038
+coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/980294110197985290/mpv-shot0085.jpg
 tags: [Shadows House]
 ---
 
-![](https://img.anili.st/media/125038)
+![](https://cdn.discordapp.com/attachments/852096360287043644/980294110197985290/mpv-shot0085.jpg)
 
 Sinopsis
 
