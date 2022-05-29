@@ -2,11 +2,11 @@
 layout: article
 title: Majo no Tabitabi (BD) - Paketan
 date: 2021-12-21
-coverPhoto: https://img.anili.st/media/112609
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959929102397/cropped-1920-1080-1120781.jpg
 tags: [Majo no Tabitabi]
 ---
 
-![](https://img.anili.st/media/112609)
+![](https://cdn.discordapp.com/attachments/970663117057032232/980279959929102397/cropped-1920-1080-1120781.jpg)
 
 Sinopsis
 
