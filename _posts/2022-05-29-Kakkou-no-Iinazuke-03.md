@@ -24,6 +24,6 @@ Penyelaras Waktu: KiryuuNii
 Unduh WEB
 
 ---
-03: [PerpusIndo (720p)](https://www.perpusindo.info/berkas/HdNRGtum)
+03: Maaf ditarik dulu, salah nge-mux
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
