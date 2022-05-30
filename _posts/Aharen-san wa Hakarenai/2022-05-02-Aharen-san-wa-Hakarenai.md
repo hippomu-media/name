@@ -18,7 +18,7 @@ Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara m
 
 Alih Bahasa, Tata Rias: Rokhiq
 <br>
-Penyelaras Waktu: Rokhiq, KiryuNii
+Penyelaras Waktu: Rokhiq, KiryuuNii
 <br>
 Pengolah Video, Penyelaras akhir: KiryuuNii
 
