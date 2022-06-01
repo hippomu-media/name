@@ -21,6 +21,6 @@ Unduh BD 900p
 Paketan: [Acefile](https://acefile.co/f/76075409/a-1-shadows-house-bdx265-900ptruehd-7z
 ) - [Google Drive](https://drive.google.com/file/d/1AbcokWyhUnqtY8RP4R_-XvnCXzsA3uAq/view?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D.7z) - [MEGA](https://mega.nz/file/l3oAETxD#wE0fjBn8nenog_bPUPeBGWYq9mi0-wAMZpKHDDydG70)
 <br>
-Eceran: [Google Drive](https://drive.google.com/drive/folders/1AUy1JuHPoP6wHaI72h5Xj93r8UokXWm4?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/) - [MEGA](https://mega.nz/folder/ouYllDKa#TTtyMoN77Gdt163CB9EcRQ) - Telegram
+Eceran: [Google Drive](https://drive.google.com/drive/folders/1AUy1JuHPoP6wHaI72h5Xj93r8UokXWm4?usp=sharing) - [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/) - [MEGA](https://mega.nz/folder/ouYllDKa#TTtyMoN77Gdt163CB9EcRQ) - [Telegram](https://t.me/a1fansub/110)
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
