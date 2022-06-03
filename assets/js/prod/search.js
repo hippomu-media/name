@@ -7,12 +7,13 @@
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
-          appendString += '<li><a href="' + item.url + '"><h2>' + item.title + '</h2></a></li>';
+          appendString += '<li><a href="' + item.url + '"><h2>' + item.title + '</h2></a>';
+          appendString += '<span><img src="' + item.coverPhoto + '/' + state.element.value.toLowerCase() + '.png" /> ' + item.title + '</span>';
         }
 
         searchResults.innerHTML = appendString;
       } else {
-        searchResults.innerHTML = '<li><h6>Tidak ada.</h6></li>';
+        searchResults.innerHTML = '<li><h2>Tidak ada.</h2></li>';
       }
     }
   
