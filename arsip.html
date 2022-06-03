@@ -25,7 +25,7 @@ body {
 <h1>Arsip Postingan</h1>   
     {% capture posts %}
   {% for post in site.posts %}
-        |<li><a href="{{ site.baseurl }}{{ post.url }}" class="h4" li>{{ post.title }}</a></li>
+        |<a href="{{ site.baseurl }}{{ post.url }}" class="h4" li>- {{ post.title }}</a>
 {% endfor %}{% endcapture %}
               
 {% assign sortedposts = posts | split: '|' | sort %}
