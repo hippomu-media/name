@@ -7,12 +7,14 @@
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
+          {% for post in sortedPosts %}
           appendString += '<li><a href="' + item.url + '" class="h4">' + item.title + '</a></li><br>';
+          {% endfor %}
         }
 
         searchResults.innerHTML = appendString;
       } else {
-        searchResults.innerHTML = '<li><h4>Tidak ada.</h4></li>';
+        searchResults.innerHTML = '<li class="h4">Tidak ada.</li>';
       }
     }
   
