@@ -46,7 +46,7 @@ body {
       {% endcase %}
       {{ page.date | date: "%Y" }}
     {% else %}
-      {{ page.date | date_to_long_string | upcase }}
+      {{ page.date | date_to_long_string | upcase | date: "%a, %d %b %Y %H:%M:%S %z" }}
     {% endif %}
   </span>
 
