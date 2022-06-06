@@ -2,21 +2,19 @@
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
     
-<article>
       if (results.length) { // Are there any results?
         var appendString = '';
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
-          appendString += '<li><a href="' + item.url + '"><h2>' + item.title + '</h2></a>';
+          appendString += '<article><li><a href="' + item.url + '"><h2>' + item.title + '</h2></a></article>';
         }
 
         searchResults.innerHTML = appendString;
       } else {
-        searchResults.innerHTML = '<li><h2>Tidak ada.</h2></li>';
+        searchResults.innerHTML = '<article><li><h2>Tidak ada.</h2></li></article>';
       }
     }
-</article>
   
     function getQueryVariable(variable) {
       var query = window.location.search.substring(1);
