@@ -12,8 +12,8 @@ highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]
 timezone: Asia/Jakarta
-paginateLabel: page
-paginate_path: "page/:num"
+paginateLabel: halaman
+paginate_path: "halaman/:num"
 permalink: /:title
 baseurl: https://a-1fansub.github.io
 
