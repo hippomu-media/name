@@ -29,4 +29,4 @@ Unduh WEB 900p
 <br>
 06: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2006%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B830009F2%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/83){:target="_blank"}
 
-Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
+Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
