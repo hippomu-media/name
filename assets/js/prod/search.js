@@ -12,7 +12,7 @@
 
         searchResults.innerHTML = appendString;
       } else {
-        searchResults.innerHTML = '<li><h2>Tidak ada.</h2></li>';
+        searchResults.innerHTML = '<li><h4>Tidak ada.</h4></li>';
       }
     }
   
