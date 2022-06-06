@@ -3,7 +3,7 @@ layout: article
 title: Aharen-san wa Hakarenai (WEB) - 06-07
 date: 2022-05-29 06:47:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980252425611006043/mpv-shot0084.jpg
-categories: [Aharen-san wa Hakarenai]
+tags: [Aharen-san wa Hakarenai]
 ---
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/980252425611006043/mpv-shot0084.jpg)
@@ -25,8 +25,8 @@ Pengolah Video, Penyelaras akhir: KiryuuNii
 Unduh WEB 900p
 
 ---
-07: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2007%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BD65315A2%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/84)
+07: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2007%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BD65315A2%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/84){:target="_blank"}
 <br>
-06: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2006%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B830009F2%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/83)
+06: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2006%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B830009F2%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/83){:target="_blank"}
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
