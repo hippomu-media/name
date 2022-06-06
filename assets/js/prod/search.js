@@ -2,6 +2,7 @@
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
     
+<article>
       if (results.length) { // Are there any results?
         var appendString = '';
         
@@ -15,6 +16,7 @@
         searchResults.innerHTML = '<li><h2>Tidak ada.</h2></li>';
       }
     }
+</article>
   
     function getQueryVariable(variable) {
       var query = window.location.search.substring(1);
