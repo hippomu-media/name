@@ -28,4 +28,4 @@ Unduh BD 900p
 <br>
 01: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2001v3%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5BB9D9D568%5D.mkv){:target="_blank"}
 
-Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
+Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
