@@ -25,14 +25,14 @@ Pengolah Video, Penyelaras akhir: KiryuuNii
 Unduh WEB 900p
 
 ---
-05: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2005%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B1984BFC1%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/78){:target="_blank"}
+05: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2005%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B1984BFC1%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/78)
 <br>
-04: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2004%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B2E6A4BF2%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/72){:target="_blank"}
+04: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2004%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B2E6A4BF2%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/72)
 <br>
-03: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2003%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BC14AB7CE%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/61){:target="_blank"}
+03: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2003%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BC14AB7CE%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/61)
 <br>
-02: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2002%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B4EE392D2%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/55){:target="_blank"}
+02: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2002%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B4EE392D2%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/55)
 <br>
-01: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2001%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BB2F48555%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/53){:target="_blank"}
+01: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20-%2001%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BB2F48555%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/53)
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV)
