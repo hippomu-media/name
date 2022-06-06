@@ -44,7 +44,7 @@ body {
         {% when "11" %}November
         {% when "12" %}Desember
       {% endcase %}
-      {{ page.date | date: "%Y %H:%M:%S %z" }}
+      {{ page.date | date: "%Y - %H:%M" }}
     {% else %}
       {{ page.date | date_to_long_string | upcase }}
     {% endif %}
