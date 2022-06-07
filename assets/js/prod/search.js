@@ -11,7 +11,9 @@
         }
 
         searchResults.innerHTML = appendString;
-        document.getElementById('search-results').innerHTML = appendString.sort();
+        appendString.sort();
+        appendString.reverse();
+        document.getElementById('search-results').innerHTML = appendString;
       } else {
         searchResults.innerHTML = '<li class="h4">Tidak ada.</li>';
       }
