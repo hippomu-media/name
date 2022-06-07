@@ -8,11 +8,9 @@
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
           appendString += '<li><a href="' + item.url + '" class="h4">' + item.title + '</a></li><br>';
-          points.sort(function(a, b){return a-b});
-          document.getElementById("search-results").innerHTML = appendString;
         }
 
-        searchResults.innerHTML = appendString;
+        searchResults.innerHTML = appendString.sort();
       } else {
         searchResults.innerHTML = '<li class="h4">Tidak ada.</li>';
       }
