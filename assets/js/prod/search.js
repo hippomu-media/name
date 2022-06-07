@@ -10,7 +10,7 @@
           appendString += '<li><a href="' + item.url + '" class="h4">' + item.title + '</a></li><br>';
         }
 
-        searchResults.innerHTML = appendString;
+        searchResults.innerHTML = appendString.sort(reverse=True);
       } else {
         searchResults.innerHTML = '<li class="h4">Tidak ada.</li>';
       }
