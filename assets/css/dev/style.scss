@@ -666,6 +666,9 @@ footer {
 
   text-align: center;
   height: $footerHeight;
+  display: flex;
+  min-height: 96vh;
+  flex-direction: column;
 
   /* Footer container */
   >section {
