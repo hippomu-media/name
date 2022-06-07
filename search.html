@@ -23,7 +23,16 @@ body {
 
   <article>
 <h1>Hasil Pencarian</h1><br>
-            <ul id="search-results"></ul>
+    {% capture posts %}
+  {% for post in site.posts %}
+        |<ul id="search-results"></ul>
+{% endfor %}{% endcapture %}
+              
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+    <a href="{{ postitems[1] }}">{{ postitems[0] }}</a>
+{% endfor %}
  </article>
 
 <script>
