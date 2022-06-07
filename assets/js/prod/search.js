@@ -2,7 +2,6 @@
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
     
-    users.sort((a, b) => a.firstname !== b.firstname ? a.firstname < b.firstname ? -1 : 1 : 0);
       if (results.length) { // Are there any results?
         var appendString = '';
         
