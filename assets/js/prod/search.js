@@ -29,14 +29,6 @@
       }
     }
   
-    /*
-   * Sort the results objects by score, highest first.
-   */
-  return results.sort(function (a, b) {
-    return b.score - a.score
-  })
-}
-  
   var searchTerm = getQueryVariable('query');
 
   if (searchTerm) {
