@@ -11,7 +11,6 @@
         }
 
         searchResults.innerHTML = appendString;
-        appendString.sort(function(a, b){return a-b});
       } else {
         searchResults.innerHTML = '<li class="h4">Tidak ada.</li>';
       }
