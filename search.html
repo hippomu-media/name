@@ -40,6 +40,7 @@ body {
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
   };
+  array.sort(function(a,b){return a.getTime() - b.getTime()});
   document.getElementById("search-results").innerHTML = appendString.sort();
 </script>
 <script src="/assets/js/prod/lunr.min.js"></script>
