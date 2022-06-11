@@ -1,15 +1,10 @@
 ---
-title: Beranda
-description: Bebas Layaknya Awan~
 layout: default
 coverPhoto: "/assets/img/favicon.ico"
 ---
 
 <!-- Don't show pagination bar in homepage -->
 {% if paginator.page > 1 %}
-
-  <!-- Include pagination bar -->
-  {% include pagination.html section="top" %}
 
 {% endif %}
 
