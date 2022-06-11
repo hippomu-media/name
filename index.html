@@ -17,10 +17,14 @@ coverPhoto: "/assets/img/favicon.ico"
 <!-- Don't show pagination bar in homepage -->
 {% if paginator.page > 1 %}
 
+  <!-- Include pagination bar -->
+  {% include pagination.html section="top" %}
+
 {% endif %}
 
 <!-- Loop for posts by paginator -->
 {% for post in paginator.posts %}
+
 
   <!-- Article -->
   <article>
