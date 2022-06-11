@@ -24,6 +24,6 @@ Penyelaras Waktu: KiryuuNii
 Unduh WEB
 
 ---
-03: [Google Drive (1080p)](https://drive.google.com/file/d/1SUxOrCkMqo-hg5AshAHqb96R4gXW2DmA/view?usp=sharing){:target="_blank"} - [Google Drive (720p)](https://drive.google.com/file/d/1kBnUBMjKg5Vl6Wif0xeieWu6VSrH5yp-/view?usp=sharing){:target="_blank"}
+03: [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/aKxGKFEd){:target="_blank"} - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/HrIyzN02){:target="_blank"}
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
