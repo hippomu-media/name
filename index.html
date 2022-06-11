@@ -1,17 +1,8 @@
 ---
 title: Beranda
-description: Bebas Layaknya Awan~
 layout: default
 coverPhoto: "/assets/img/favicon.ico"
 ---
-
-<!-- Don't show pagination bar in homepage -->
-{% if paginator.page > 1 %}
-
-  <!-- Include pagination bar -->
-  {% include pagination.html section="top" %}
-
-{% endif %}
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9PNC9JT63S"></script>
@@ -22,6 +13,14 @@ coverPhoto: "/assets/img/favicon.ico"
 
     gtag('config', 'G-9PNC9JT63S');
   </script>
+
+<!-- Don't show pagination bar in homepage -->
+{% if paginator.page > 1 %}
+
+{% endif %}
+
+<!-- Loop for posts by paginator -->
+{% for post in paginator.posts %}
 
   <!-- Article -->
   <article>
@@ -76,9 +75,9 @@ coverPhoto: "/assets/img/favicon.ico"
     </div><!-- .article__bottom -->
 
   </article><!-- article -->
-    
-{% endfor %}
 
+{% endfor %}
+    
 <!-- Include pagination bar -->
 {% include pagination.html section="bottom" %}
 
