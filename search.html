@@ -29,6 +29,7 @@ body {
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
+        "date": "{{ post.date | xml_escape }}",
         "title": "{{ post.title | xml_escape }}",
         "coverPhoto": "{{ post.coverPhoto | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
