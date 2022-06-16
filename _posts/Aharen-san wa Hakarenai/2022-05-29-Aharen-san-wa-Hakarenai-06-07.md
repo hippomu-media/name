@@ -15,7 +15,9 @@ Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Ra
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
+Staf
 
+---
 Alih Bahasa, Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: Rokhiq, KiryuuNii
