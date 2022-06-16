@@ -8,7 +8,7 @@ tags: [Aharen-san wa Hakarenai]
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/980252425611006043/mpv-shot0084.jpg)
 
-# Sinopsis
+Sinopsis
 
 ---
 Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Raidou yang duduk bersebelahan.
