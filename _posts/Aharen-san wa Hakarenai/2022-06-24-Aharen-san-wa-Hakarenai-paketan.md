@@ -20,7 +20,9 @@ Alih Bahasa, Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: Rokhiq, KiryuuNii
 <br>
-Pengolah Video, Penyelaras Akhir: KiryuuNii
+Pengolah Video: KiryuuNii, Azkaxfannx
+<br>
+Penyelaras Akhir: KiryuuNii
 
 Unduh WEB 900p
 
