@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - Paketan
-date: 2022-06-24 02:11:00 +0700
+date: 2022-06-24 03:11:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/989616467114868846/unknown.png
 tags: [Aharen-san wa Hakarenai]
 ---
@@ -27,6 +27,6 @@ Unduh WEB 900p
 ---
 Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-900paac-7z){:target="_blank"} - [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}
 <br>
-Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20900p][AAC]/){:target="_blank"} - [Telegram](){:target="_blank"}
+Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20900p][AAC]/){:target="_blank"} - [Telegram](https://t.me/a1fansub/125){:target="_blank"}
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
