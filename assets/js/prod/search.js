@@ -44,6 +44,10 @@
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'title': window.store[key].title,
+        'date': window.store[key].date,
+        'id': key,
+        'author': window.store[key].author,
+        'category': window.store[key].category,
         'content': window.store[key].content
       });
 
