@@ -25,6 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-menu:before {
+  content: "\e9bd";
+}
+  
 .icon-envelope-o:before {
   content: "\f003";
 }
