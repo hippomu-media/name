@@ -38,11 +38,13 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('title');
+      this.field('content');
     });
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
-        'title': window.store[key].title
+        'title': window.store[key].title,
+        'content': window.store[key].content
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
