@@ -24,6 +24,6 @@ Penyelaras Waktu: KiryuuNii
 Unduh WEB
 
 ---
-[PerpusIndo 1080p](https://www.perpusindo.info/berkas/Kgfyd8NS){:target="_blank"} - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/AMqEPZNj){:target="_blank"}
+[PerpusIndo (1080p)](https://www.perpusindo.info/berkas/Kgfyd8NS){:target="_blank"} - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/AMqEPZNj){:target="_blank"}
 
 Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
