@@ -8,7 +8,6 @@ layout: htmlCompressor
 
   <!-- SEO -->
   <title>{% if page.title %}{{ page.title }} :: {{ site.name }}{% elsif site.name %}{{ site.name }} | {{ site.description }}{% endif %}</title>
-  <meta name="description" content="{% if page.title %}{{ page.content | strip_html | slice: 0, 150 }}{% elsif site.description %}{{ site.description }}{% endif %}">
 
   <!-- Meta for robots -->
   <meta charset="UTF-8">
