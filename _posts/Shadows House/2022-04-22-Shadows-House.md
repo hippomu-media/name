@@ -8,9 +8,6 @@ tags: [Shadows House]
 
 ![](https://cdn.discordapp.com/attachments/852096360287043644/980294110197985290/mpv-shot0085.jpg)
 
-Sinopsis
-
----
 Mansion yang berada di atas bukit yang dikenal dengan nama Rumah Bayangan, rumah dari bayangan yang hidup layaknya bangsawan. Mereka mengeksperesikan emosinya dengan Boneka Hidup yang sekaligus menjadi pelayan.
 
 Solo: Rokhiq
@@ -27,5 +24,3 @@ Unduh BD 900p
 02: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2002v2%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5BDB67B4FE%5D.mkv){:target="_blank"}
 <br>
 01: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202021/%5BBD%5D/%5BA-1%5D%20Shadows%20House%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D/%5BA-1%5D%20Shadows%20House%20-%2001v3%20%5BBD%5D%5Bx265%20900p%5D%5BTrueHD%5D%5BB9D9D568%5D.mkv){:target="_blank"}
-
-Ikuti kami di [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
