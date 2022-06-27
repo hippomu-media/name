@@ -14,7 +14,7 @@ plugins: [jekyll-paginate]
 timezone: Asia/Jakarta
 paginateLabel: halaman
 paginate_path: "halaman/:num"
-permalink: /:tags/:title
+permalink: /:title
 baseurl: https://a-1fansub.github.io
 
 # Includes
