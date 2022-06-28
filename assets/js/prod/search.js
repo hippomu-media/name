@@ -42,7 +42,6 @@
       this.field('id');
       this.field('author');
       this.field('category');
-      this.field('tags', { boost: 10 });
       this.field('content');
     });
 
@@ -50,7 +49,6 @@
       idx.add({
         'title': window.store[key].title,
         'date': window.store[key].date,
-        'tags': window.store[key].tags,
         'id': key,
         'author': window.store[key].author,
         'category': window.store[key].category,
