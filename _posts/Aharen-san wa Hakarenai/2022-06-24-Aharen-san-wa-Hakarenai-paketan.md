@@ -1,9 +1,9 @@
 ---
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - Paketan
+eps: Paketan
 date: 2022-06-24 03:11:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/989616467114868846/unknown.png
-tags: [Aharen-san wa Hakarenai]
 ---
 
 ![](https://cdn.discordapp.com/attachments/895646034225688636/989616467114868846/unknown.png)
