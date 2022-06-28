@@ -40,8 +40,6 @@
       this.field('title',);
       this.field('date', { boost: 10 });
       this.field('id');
-      this.field('author');
-      this.field('category');
       this.field('content');
     });
 
