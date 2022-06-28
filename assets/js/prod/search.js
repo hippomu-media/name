@@ -40,7 +40,6 @@
       this.field('title',);
       this.field('date', { boost: 10 });
       this.field('id');
-      this.field('content');
     });
 
     for (var key in window.store) { // Add the data to lunr
