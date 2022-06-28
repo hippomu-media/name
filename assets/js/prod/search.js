@@ -41,7 +41,7 @@
       this.field('id');
       this.field('author');
       this.field('category');
-      this.field('tags');
+      this.field('tags', { boost: 10 });
       this.field('content');
     });
 
