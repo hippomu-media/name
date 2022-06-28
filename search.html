@@ -30,6 +30,7 @@ body {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {        
         "title": "{{ post.title | xml_escape }}",
+        "eps": "{{ post.eps | xml_escape }}",
         "date": "{{ post.date | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
