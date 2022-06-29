@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (WEB) - 05
-eps: 5
+eps: 05
 date: 2022-06-19 14:08:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/987976617638907904/unknown.png
 ---
