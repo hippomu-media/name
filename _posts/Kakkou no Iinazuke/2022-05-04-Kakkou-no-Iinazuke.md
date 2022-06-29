@@ -2,10 +2,10 @@
 layout: article
 title: Kakkou no Iinazuke (WEB) - 01-02
 date: 2022-05-14 11:39:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/971431091703541790/Deai_Kakkou_no_Iinazuke_-_02_720p_WebRip_001_4810.png
+coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png
 ---
 
-![](https://cdn.discordapp.com/attachments/902952031923347497/971431091703541790/Deai_Kakkou_no_Iinazuke_-_02_720p_WebRip_001_4810.png)
+![](https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png)
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
