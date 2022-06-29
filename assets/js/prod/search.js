@@ -42,7 +42,6 @@
       this.field('id');
       this.field('author');
       this.field('category');
-      this.field('content');
     });
 
     for (var key in window.store) { // Add the data to lunr
@@ -51,8 +50,7 @@
         'eps': window.store[key].eps,
         'id': key,
         'author': window.store[key].author,
-        'category': window.store[key].category,
-        'content': window.store[key].content
+        'category': window.store[key].category
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
