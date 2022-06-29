@@ -39,9 +39,6 @@
     var idx = lunr(function () {
       this.field('tags');
       this.field('eps', { boost: 10 });
-      this.field('id');
-      this.field('author');
-      this.field('category');
     });
 
     for (var key in window.store) { // Add the data to lunr
@@ -53,7 +50,7 @@
         'category': window.store[key].category
       });
 
-      var results = idx.search('foo bar'); // Get lunr to perform a search
+      var results = idx.search(SearchTerm); // Get lunr to perform a search
       displaySearchResults(results, window.store); // We'll write this in the next section
     }
   }
