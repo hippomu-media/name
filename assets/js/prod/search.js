@@ -39,14 +39,15 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('date', { boost: 10 });
-      this.field('eps', { boost: 20 })
+      this.field('url', { boost: 20 })
     });
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'id': key,
         'date': window.store[key].date,
-        'eps': window.store[key].eps
+        'eps': window.store[key].eps,
+        'url': window.store[key].url
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
