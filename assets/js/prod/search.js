@@ -46,9 +46,7 @@
       idx.add({
         'tags': window.store[key].tags,
         'eps': window.store[key].eps,
-        'id': key,
-        'author': window.store[key].author,
-        'category': window.store[key].category
+        'id': key
       });
 
       var results = idx.search(SearchTerm); // Get lunr to perform a search
