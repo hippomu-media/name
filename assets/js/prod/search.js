@@ -43,7 +43,8 @@
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
-        'id': key
+        'id': key,
+        'date': window.store[key].date
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
