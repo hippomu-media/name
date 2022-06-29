@@ -44,7 +44,8 @@
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'tags': window.store[key].tags,
-        'eps': window.store[key].eps
+        'eps': window.store[key].eps,
+        'id': key
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
