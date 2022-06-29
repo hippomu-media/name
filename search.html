@@ -28,7 +28,8 @@ body {
 <script>
   window.store = {
     {% for post in site.posts %}
-      "{{ post.url | slugify }}": {        
+      "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
         "eps": "{{ post.eps | xml_escape }}",
         "url": "{{ post.url | xml_escape }}"
       }
