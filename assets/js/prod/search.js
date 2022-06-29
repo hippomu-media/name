@@ -38,7 +38,7 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('id');
-      this.field('date', { boost: 10 });
+      this.field('eps', { boost: 10 });
       this.field('url', { boost: 20 })
     });
 
@@ -46,7 +46,6 @@
       idx.add({
         'id': key,
         'date': window.store[key].date,
-        'eps': window.store[key].eps,
         'url': window.store[key].url
       });
 
