@@ -39,14 +39,12 @@
     var idx = lunr(function () {
       this.field('tags');
       this.field('eps', { boost: 10 });
-      this.field('id');
     });
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'tags': window.store[key].tags,
-        'eps': window.store[key].eps,
-        'id': key
+        'eps': window.store[key].eps
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
