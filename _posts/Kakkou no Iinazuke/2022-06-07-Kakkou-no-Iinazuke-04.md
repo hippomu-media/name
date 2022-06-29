@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (WEB) - 04
-eps: Episode 04
 date: 2022-06-07 17:42:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/983639302011510784/unknown.png
 ---
