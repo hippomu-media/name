@@ -38,8 +38,7 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('title');
-      this.field('date', { boost: 10 });
-      this.field('eps');
+      this.field('eps', { boost: 10 });
       this.field('id');
       this.field('author');
       this.field('category');
