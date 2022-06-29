@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (WEB) - 03
-eps: 03-03
 date: 2022-05-29 05:32:00+0700
 coverPhoto: https://media.discordapp.net/attachments/902952031923347497/980061735434207242/unknown.png
 ---
