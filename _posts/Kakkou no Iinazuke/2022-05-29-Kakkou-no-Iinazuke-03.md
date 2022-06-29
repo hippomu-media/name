@@ -2,10 +2,10 @@
 layout: article
 title: Kakkou no Iinazuke (WEB) - 03
 date: 2022-05-29 05:32:00+0700
-coverPhoto: https://media.discordapp.net/attachments/902952031923347497/980061735434207242/unknown.png
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/991699497971359815/unknown.png
 ---
 
-![](https://media.discordapp.net/attachments/902952031923347497/980061735434207242/unknown.png)
+![](https://cdn.discordapp.com/attachments/970663117057032232/991699497971359815/unknown.png)
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
