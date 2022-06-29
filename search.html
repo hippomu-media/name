@@ -31,8 +31,6 @@ body {
       "{{ post.url | slugify }}": {        
         "title": "{{ post.title | xml_escape }}",
         "eps": "{{ post.eps | xml_escape }}",
-        "date": "{{ post.date | xml_escape }}",
-        "tags": "{{ post.category | xml_escape }}",
         "url": "{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
