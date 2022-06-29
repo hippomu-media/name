@@ -39,7 +39,7 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('eps', { boost: 10 });
-      this.field('url', { boost: 20 })
+      this.field('url', { boost: 20 });
     });
 
     for (var key in window.store) { // Add the data to lunr
