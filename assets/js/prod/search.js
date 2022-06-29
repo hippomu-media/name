@@ -37,7 +37,7 @@
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
-      this.field('title');
+      this.field('tags');
       this.field('eps', { boost: 10 });
       this.field('id');
       this.field('author');
@@ -47,7 +47,7 @@
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
-        'title': window.store[key].title,
+        'tags': window.store[key].tags,
         'eps': window.store[key].eps,
         'id': key,
         'author': window.store[key].author,
