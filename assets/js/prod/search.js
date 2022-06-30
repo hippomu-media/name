@@ -45,7 +45,6 @@
       idx.add({
         'id': key,
         'title': window.stoee[key].title,
-        'date': window.store[key].date,
         'url': window.store[key].url
       });
 
