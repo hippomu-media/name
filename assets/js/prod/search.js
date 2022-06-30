@@ -38,13 +38,13 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('id');
-      this.field('title', { boost: 10 });
+      this.field('date', { boost: 10 });
     });
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'id': key,
-        'title': window.stoee[key].title,
+        'date': window.stoee[key].date,
         'url': window.store[key].url
       });
 
